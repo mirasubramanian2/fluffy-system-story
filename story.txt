@@ -1,1 +1,5 @@
-A dog named Teddy went on a walk.	
+A dog named Teddy went on a walk.
+ Teddy is a super fluffy dog with brown curly hair.
+Teddy has a bright red color.
+Teddy's favorite toy is his bone.
+	
